@@ -1,5 +1,5 @@
 # AI-CV-DogsCats
-(Vietnam)
+(Vietnamese)
 Bài toán được viết bằng ngôn ngữ Python. Sử dụng thư viện TensorFlow, Keras, OS, NumPy, VGG16, Matplotlib, PIL. TensorFlow sử dụng để xây dựng và huấn luyện mạng nơ-ron, Keras làm giao diện cho TensorFlow, OS tạo quản lý thư mục, NumPy tính toán và xử lý dữ liệu, 
 VGG16 là mô hình mạng nơ-ron cho bài toán,  Matplotlib để vẽ biểu đồ và trực quan hóa dữ liệu, PIL được sử dụng để xử lý ảnh.
 
